@@ -1,5 +1,7 @@
 # Welcome to Github! Get ready to make your first personal website :) 
 
+*starter code taken from CS498RK: Art and Design of Web Programming
+
 ## Environment Setup Guide
 
 1. Clone the repository: git clone https://github.com/uiuc-web-programming/mp1_starter.git mp1, then cd mp1
